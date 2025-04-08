@@ -36,7 +36,9 @@
 
    🔍 Sort the results by the count in descending/ascending order
 
-   ![Top 3 Most Properties](./Question_2/no2a.png)
+   🔍 Use a chart to better illustrate the data.
+
+   ![Top 3 Most Properties](./Question_2/no2a.png) ![Top 3 Most Properties](./Question_2/no2b.png)
 
    
 
