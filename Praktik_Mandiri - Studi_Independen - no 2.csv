@@ -1,0 +1,62 @@
+"2. The top three locations that have the highest number of properties, and the bottom three locations that have the lowest number of properties",,,,
+Top 3 locations with the most properties,,,Top 3 locations with the least properties,
+Location,Number of Properties,,Location,Number of Properties
+"Kepong, Kuala Lumpur",125,,"ADIVA Desa ParkCity, Kuala Lumpur",1
+"Desa ParkCity, Kuala Lumpur",111,,"Alam Damai, Kuala Lumpur",1
+"Bangsar, Kuala Lumpur",80,,"Brickfields, Kuala Lumpur",1
+"Damansara Heights, Kuala Lumpur",79,,"Bukit Ledang, Kuala Lumpur",1
+"Cheras, Kuala Lumpur",79,,"Desa Pandan, Kuala Lumpur",1
+"Taman Tun Dr Ismail, Kuala Lumpur",77,,"Desa Petaling, Kuala Lumpur",1
+"Mont Kiara, Kuala Lumpur",70,,"Jinjang, Kuala Lumpur",1
+"Bukit Jalil, Kuala Lumpur",62,,"KL Eco City, Kuala Lumpur",1
+"Sri Hartamas, Kuala Lumpur",52,,"Pandan Perdana, Kuala Lumpur",1
+"Sungai Besi, Kuala Lumpur",32,,"Puchong, Kuala Lumpur",1
+"Sri Petaling, Kuala Lumpur",31,,"Salak Selatan, Kuala Lumpur",1
+"Seputeh, Kuala Lumpur",27,,"SEMARAK, Kuala Lumpur",1
+"Ampang, Kuala Lumpur",23,,"Titiwangsa, Kuala Lumpur",1
+"Taman Melawati, Kuala Lumpur",22,,"Bangsar South, Kuala Lumpur",2
+"Sunway SPK, Kuala Lumpur",22,,"Batu Caves, Kuala Lumpur",2
+"Setapak, Kuala Lumpur",20,,"Bukit Kiara, Kuala Lumpur",2
+"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",20,,"KL Sentral, Kuala Lumpur",2
+"Wangsa Maju, Kuala Lumpur",19,,"Damansara, Kuala Lumpur",3
+"Taman Desa, Kuala Lumpur",19,,"Federal Hill, Kuala Lumpur",3
+"Country Heights Damansara, Kuala Lumpur",17,,"Jalan Kuching, Kuala Lumpur",3
+"Bukit Tunku (Kenny Hills), Kuala Lumpur",16,,"Keramat, Kuala Lumpur",3
+"KLCC, Kuala Lumpur",15,,"KL City, Kuala Lumpur",3
+"Bandar Menjalara, Kuala Lumpur",14,,"Kuchai Lama, Kuala Lumpur",3
+"Dutamas, Kuala Lumpur",13,,"Pandan Indah, Kuala Lumpur",3
+"OUG, Kuala Lumpur",11,,"Sentul, Kuala Lumpur",3
+"Segambut, Kuala Lumpur",10,,"Setiawangsa, Kuala Lumpur",3
+"Jalan Ipoh, Kuala Lumpur",8,,"Ampang Hilir, Kuala Lumpur",4
+"Bandar Damai Perdana, Kuala Lumpur",6,,"City Centre, Kuala Lumpur",4
+"Bukit Bintang, Kuala Lumpur",5,,"Pantai, Kuala Lumpur",4
+"Pantai, Kuala Lumpur",4,,"Bukit Bintang, Kuala Lumpur",5
+"City Centre, Kuala Lumpur",4,,"Bandar Damai Perdana, Kuala Lumpur",6
+"Ampang Hilir, Kuala Lumpur",4,,"Jalan Ipoh, Kuala Lumpur",8
+"Setiawangsa, Kuala Lumpur",3,,"Segambut, Kuala Lumpur",10
+"Sentul, Kuala Lumpur",3,,"OUG, Kuala Lumpur",11
+"Pandan Indah, Kuala Lumpur",3,,"Dutamas, Kuala Lumpur",13
+"Kuchai Lama, Kuala Lumpur",3,,"Bandar Menjalara, Kuala Lumpur",14
+"KL City, Kuala Lumpur",3,,"KLCC, Kuala Lumpur",15
+"Keramat, Kuala Lumpur",3,,"Bukit Tunku (Kenny Hills), Kuala Lumpur",16
+"Jalan Kuching, Kuala Lumpur",3,,"Country Heights Damansara, Kuala Lumpur",17
+"Federal Hill, Kuala Lumpur",3,,"Taman Desa, Kuala Lumpur",19
+"Damansara, Kuala Lumpur",3,,"Wangsa Maju, Kuala Lumpur",19
+"KL Sentral, Kuala Lumpur",2,,"Jalan Klang Lama (Old Klang Road), Kuala Lumpur",20
+"Bukit Kiara, Kuala Lumpur",2,,"Setapak, Kuala Lumpur",20
+"Batu Caves, Kuala Lumpur",2,,"Sunway SPK, Kuala Lumpur",22
+"Bangsar South, Kuala Lumpur",2,,"Taman Melawati, Kuala Lumpur",22
+"Titiwangsa, Kuala Lumpur",1,,"Ampang, Kuala Lumpur",23
+"SEMARAK, Kuala Lumpur",1,,"Seputeh, Kuala Lumpur",27
+"Salak Selatan, Kuala Lumpur",1,,"Sri Petaling, Kuala Lumpur",31
+"Puchong, Kuala Lumpur",1,,"Sungai Besi, Kuala Lumpur",32
+"Pandan Perdana, Kuala Lumpur",1,,"Sri Hartamas, Kuala Lumpur",52
+"KL Eco City, Kuala Lumpur",1,,"Bukit Jalil, Kuala Lumpur",62
+"Jinjang, Kuala Lumpur",1,,"Mont Kiara, Kuala Lumpur",70
+"Desa Petaling, Kuala Lumpur",1,,"Taman Tun Dr Ismail, Kuala Lumpur",77
+"Desa Pandan, Kuala Lumpur",1,,"Cheras, Kuala Lumpur",79
+"Bukit Ledang, Kuala Lumpur",1,,"Damansara Heights, Kuala Lumpur",79
+"Brickfields, Kuala Lumpur",1,,"Bangsar, Kuala Lumpur",80
+"Alam Damai, Kuala Lumpur",1,,"Desa ParkCity, Kuala Lumpur",111
+"ADIVA Desa ParkCity, Kuala Lumpur",1,,"Kepong, Kuala Lumpur",125
+Grand Total,1145,,Grand Total,1145
