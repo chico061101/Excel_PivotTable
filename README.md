@@ -35,5 +35,8 @@
    🔍 Summarize the 'Location' column by COUNTA
 
    🔍 Sort the results by the count in descending/ascending order
+
+   ![Top 3 Most Properties](Top 3 Location with Most Properties.png)
+
    
 
