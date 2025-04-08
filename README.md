@@ -32,27 +32,50 @@
 
    🔍 Values = 'Location'
 
-   🔍 Summarize the 'Location' column by COUNTA
+   🔍 Summarize the 'Location' values by COUNTA
 
    🔍 Sort the results by the count in descending/ascending order
 
    🔍 Use a chart to better illustrate the data.
 
-   ![Top 3 Most Properties](./Question_2/no2a.png) ![Top 3 Most Properties](./Question_2/no2b.png)
+   ![Top 3 Location with Most Properties](./Question_2/no2a.png) ![Top 3 Location with Least Properties](./Question_2/no2b.png)
 
 3. Which furnishing status dominates in all locations?
 
-   🔍 Create a [Pivot Table](./Question_3/no3.csv) from [clean_data.csv](./Data/clean_data.csv)
+   🔍 Create a [Pivot Table](./Question_3/no3.csv)
 
    🔍 Rows = 'Furnishing'
 
    🔍 Values = 'Furnishing'
 
-   🔍 Summarize the 'Furnishing' column by COUNTA
+   🔍 Summarize the 'Furnishing' values by COUNTA
 
    🔍 Sort the results by the count in descending order
 
    🔍 The answer is 'Partly Furnished'
 
-4. 
+4. What is the average land size in each location category?
 
+   🔍 Create a [Pivot Table](./Question_4/no4.csv)
+
+   🔍 Rows = '1.Category'
+
+   🔍 Values = 'Size'
+
+   🔍 Summarize the 'Size' values by AVERAGE
+
+5. Which 3 locations have the highest average property prices?
+
+   🔍 Create a [Pivot Table](./Question_5/no5.csv) from [clean_data.csv](./Data/clean_data.csv)
+   
+   🔍 Rows = 'Location'
+
+   🔍 Values = 'Price'
+
+   🔍 Summarize the 'Prices' values by AVERAGE
+
+   🔍 Sort the results by the count in descending order
+
+   🔍 Use a chart to better illustrate the data. 
+
+![Top 3 Location with Most Expensives Property](./Question_5/no5a.png)
