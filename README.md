@@ -28,9 +28,9 @@
 
    🔍 Create a [Pivot Table](./Question_2/no2.csv) from [clean_data.csv](./Data/clean_data.csv)
    
-   🔍 'Location' = row
+   🔍 Rows = 'Location'
 
-   🔍 'Location' = values
+   🔍 Values = 'Location'
 
    🔍 Summarize the 'Location' column by COUNTA
 
@@ -40,5 +40,19 @@
 
    ![Top 3 Most Properties](./Question_2/no2a.png) ![Top 3 Most Properties](./Question_2/no2b.png)
 
-   
+3. Which furnishing status dominates in all locations?
+
+   🔍 Create a [Pivot Table](./Question_3/no3.csv) from [clean_data.csv](./Data/clean_data.csv)
+
+   🔍 Rows = 'Furnishing'
+
+   🔍 Values = 'Furnishing'
+
+   🔍 Summarize the 'Furnishing' column by COUNTA
+
+   🔍 Sort the results by the count in descending order
+
+   🔍 The answer is 'Partly Furnished'
+
+4. 
 
