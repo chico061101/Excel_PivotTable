@@ -1,7 +1,7 @@
 # Excel_PivotTable
 📌 One of the assignment about learning data analyst in Studi Independen bootcamp by Karier.mu
 
-📌 I was given a [dataset](./dataset.csv) in Excel where I have to clean the data and also answer several given questions.
+📌 I was given a [dataset](./Data/dataset.csv) in Excel where I have to clean the data and also answer several given questions.
 
 ## Cleaning Data Steps :
 1. Check for duplicates: Click Data → Data Cleanup → Remove Duplicates.
@@ -26,7 +26,7 @@
    🔍 Add Column 'Category', then write formula | =IF(B2<1163876, "Low", IF(B2<3817500, "Mid"  , "High")) | for its value (note : B2 = 'Price' column)
 2. What are the top three locations that have the highest number of properties, and the bottom three locations that have the lowest number of properties?
 
-   🔍 Create a [Pivot Table](./Question_2/no2.csv) from [clean_data.csv](./clean_data.csv)
+   🔍 Create a [Pivot Table](./Question_2/no2.csv) from [clean_data.csv](./Data/clean_data.csv)
    
    🔍 'Location' = row
 
